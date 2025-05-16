@@ -1,3 +1,4 @@
+Stock Analysis
 This project analyzes historical stock prices for Apple (AAPL), Microsoft (MSFT), Johnson & Johnson (JNJ), Tesla (TSLA), and ExxonMobil (XOM) using R. The workflow includes return calculation, risk metrics (Sharpe ratio), time series decomposition, and forecasting using ARIMA and Facebook Prophet, plus moving average trend analysis.
 
 🛠️ Tools & Libraries
@@ -14,3 +15,6 @@ dplyr, lubridate – data wrangling
 - Time Series Decomposition
 - ARIMA and Prophet model
 - Plots 50-day and 200-day SMA
+
+
+Fraud Detection Project
