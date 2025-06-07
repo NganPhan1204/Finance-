@@ -17,4 +17,3 @@ dplyr, lubridate – data wrangling
 - Plots 50-day and 200-day SMA
 
 
-Fraud Detection Project
